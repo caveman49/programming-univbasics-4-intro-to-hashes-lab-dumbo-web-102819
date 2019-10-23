@@ -11,7 +11,7 @@ def pioneer
 end
 
 def id_generator
-  person = {
+  :id => person = {
   name: "Sam",
   age: 31
 }
